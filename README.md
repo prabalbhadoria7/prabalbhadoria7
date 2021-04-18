@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prabalbhadoria7
+- 👋 Hi, I’m @prabalbhadoria
 - 👀 I’m interested in collaborations, team work and open to any suggestions !
 - 🌱 I’m currently learning - Machine Learning. I know Exploratory Data Analysis and capable of tuning ML models.
 - 💞️ I’m looking to collaborate on Machine Learning Projects, Building ML apps, Web Development. 
